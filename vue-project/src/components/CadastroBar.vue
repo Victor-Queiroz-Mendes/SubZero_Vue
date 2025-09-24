@@ -21,7 +21,7 @@
 
     <!-- Rodapé -->
     <footer class="rodape">
-      <p>©2025 SeuBarro. Todos os direitos reservados.</p>
+      <p>©2025 SubZero. Todos os direitos reservados.</p>
       <div class="links">
         <a href="#">Política</a>
         <a href="#">Termos</a>
